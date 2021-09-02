@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CabTheProgrammer
 - 👀 I’m interested in problem solving 
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning asp.net
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me coming soon
 
