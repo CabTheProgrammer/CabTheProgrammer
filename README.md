@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CabTheProgrammer
-- 👀 I’m interested in problem solving 
-- 🌱 I’m currently learning Dart and Flutter
+- 👀 I’m interested in using code to solve real-life problems 
+- 🌱 I’m currently learning JavaScript/Node
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me coming soon
 
